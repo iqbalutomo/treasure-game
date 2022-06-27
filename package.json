@@ -1,0 +1,9 @@
+{
+  "name": "treasure-game",
+  "version": "1.0.0",
+  "description": "This game has been created with Phaser 3 and Javascript",
+  "main": "index.js",
+  "repository": "https://github.com/iqbalutomo/treasure-game.git",
+  "author": "@iqbalutomo",
+  "license": "MIT"
+}

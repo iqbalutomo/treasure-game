@@ -5,7 +5,7 @@ const config = {
   name: 'treasure-game',
   type: Phaser.AUTO,
   width: 640,
-  height: 320,
+  height: 360,
   scene: [PlayScene],
 };
 
